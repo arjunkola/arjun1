@@ -1,0 +1,4 @@
+touch
+ls
+clone
+git status
